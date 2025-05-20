@@ -1,3 +1,5 @@
+<?php
+
 return [
     'operator_code' => env('PROVIDER_OPERATOR_CODE'),
     'secret_key'    => env('PROVIDER_SECRET_KEY'),
